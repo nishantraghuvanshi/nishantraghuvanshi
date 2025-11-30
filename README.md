@@ -32,7 +32,9 @@ intersection of software, robotics, and AI.
 ## 🏆 Achievements
 
 🥇 India Rank 1 & World Rank 1     │ BITSkrieg CTF Leaderboard
+
 📄 Research Paper Accepted          │ ECMR 2025 (European Conference on Mobile Robots)
+
 👥 Led CTF for 3000+ participants   │ Across 20+ countries
 
 ---
@@ -73,7 +75,7 @@ intersection of software, robotics, and AI.
 
 ## 🔥 Featured Projects
 
-### 🤖 [Natural Language Controlled Autonomous UAV](https://github.com/nishantraghuvanshi](https://arxiv.org/abs/2504.21432)
+### 🤖 [Natural Language Controlled Autonomous UAV](https://arxiv.org/abs/2504.21432)
 AI-powered drone with vision and language comprehension using ROS, Gazebo, YOLOv8, and LLaMA
 **Research Accepted at ECMR 2025** | `Deep Learning` `NLP` `Computer Vision` `Autonomous Systems`
 
@@ -86,22 +88,10 @@ Notion-like note-taking app with real-time collaboration and rich text editing
 `Next.js` `Convex` `Clerk` `Real-time Database` | [Live Demo](https://note-taking-app-kohl-kappa.vercel.app/)
 
 ### 📡 [3D Pose Estimation using WiFi](https://github.com/nishantraghuvanshi)
-Privacy-preserving human pose detection using WiFi CSI signals and teacher-student learning
+Privacy-preserving human pose detection using WiFi CSI signals and teacher-student learning(In Progress)
 `Machine Learning` `Signal Processing` `PyTorch` `Computer Vision`
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishantraghuvanshi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishantraghuvanshi&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nishantraghuvanshi&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
