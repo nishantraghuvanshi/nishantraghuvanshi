@@ -37,6 +37,8 @@ intersection of software, robotics, and AI.
 
 👥 Led CTF for 3000+ participants   │ Across 20+ countries
 
+🥇 First Price in Goa Police Hackathon 2024
+
 ---
 
 ## 💻 Tech Stack
@@ -113,8 +115,8 @@ Led India's top cybersecurity club to India Rank 1, managed CTF infrastructure f
 I'm always excited to collaborate on **web development, robotics, or AI projects**! Feel free to reach out:
 
 - 📧 **Email:** [nishantraghuvanshi501@gmail.com](mailto:nishantraghuvanshi501@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/nishant-raghuvanshi](https://linkedin.com/in/nishant-raghuvanshi)
-- 🌐 **Portfolio:** [your-portfolio-url.com](https://your-portfolio-url.com)
+- 💼 **LinkedIn:** [linkedin.com/in/nishant-raghuvanshi](https://linkedin.com/in/nishant-raghuvanshi-82820213b)
+- 🌐 **Portfolio:** [your-portfolio-url.com](https://orbital-portfolio-nine.vercel.app)
 
 ---
 
