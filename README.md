@@ -73,7 +73,7 @@ intersection of software, robotics, and AI.
 
 ## 🔥 Featured Projects
 
-### 🤖 [Natural Language Controlled Autonomous UAV](https://github.com/nishantraghuvanshi)
+### 🤖 [Natural Language Controlled Autonomous UAV](https://github.com/nishantraghuvanshi](https://arxiv.org/abs/2504.21432)
 AI-powered drone with vision and language comprehension using ROS, Gazebo, YOLOv8, and LLaMA
 **Research Accepted at ECMR 2025** | `Deep Learning` `NLP` `Computer Vision` `Autonomous Systems`
 
